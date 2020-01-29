@@ -3,7 +3,7 @@ You can also view the live demo page on below URL
 
 
 Contact FORM URL 
-
+http://13.235.225.118/dev/ci/codeignitor-test-mail/contact
 
 I had integrated simple HTML EDITOR and basic form as asked in the dropbox test document. Mail is sent via SMTP and those details are fetched from the database. 
 
